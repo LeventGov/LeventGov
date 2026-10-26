@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leventgovaerts) [![Website](https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leventgovaerts.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levent.govaerts@student.howest.be)
 
 # Levent Govaerts
-Junior Software Engineer - Fullstack
+Software Engineer - Fullstack
 
 ### About
 - Bachelor student Software Engineering at Howest Bruges (accelerated track), after completing an Associate degree in Programming.
